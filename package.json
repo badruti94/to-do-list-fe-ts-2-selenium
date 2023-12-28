@@ -1,0 +1,22 @@
+{
+  "name": "to-do-list-fe-ts-2-selenium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "verbose": true
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "selenium-webdriver": "^4.16.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.11"
+  }
+}
